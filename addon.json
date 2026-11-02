@@ -1,0 +1,9 @@
+{
+	"id": "cinematic-camera",
+	"name": "Cinematic camera",
+	"version": "0.2.0",
+	"api": 1,
+	"entry": "main.gd",
+	"author": "UnjustOdin",
+	"description": "Free-flying shots, smooth camera moves, tracking shots, overhead timelapses and an idle mode and a recorder camera that films while you play, for Zenith. Changes only the camera, never the game."
+}
